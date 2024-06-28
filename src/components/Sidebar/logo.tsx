@@ -2,7 +2,7 @@ import * as React from 'react'
 
 function Logo() {
   return (
-    <strong className="flex items-center gap-2 text-xl font-semibold text-zinc-900">
+    <strong className="flex mx-1 items-center gap-2 text-xl font-semibold text-zinc-900">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="30px"
