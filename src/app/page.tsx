@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <div>
-      gsdfgdsfg
-    </div>
-  );
+  return <div>gsdfgdsfg</div>
 }
