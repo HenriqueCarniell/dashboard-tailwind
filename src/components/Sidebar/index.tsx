@@ -2,7 +2,7 @@
 
 import { Search, LifeBuoy, Cog, Menu } from 'lucide-react'
 import * as Input from '../Form/Input'
-import { Logo } from './Logo'
+import { Logo } from './logo'
 import { Profile } from './Profile'
 import { Navigation } from './Navigation'
 import { UsedSpaceWidget } from './UsedSpaceWidget'

@@ -16,7 +16,7 @@ export function Profile() {
           Gustavo Henrique
         </span>
         <span className="block text-sm text-zinc-500 dark:text-zinc-400">
-          gustavoteste@gmail.com
+          gustavo
         </span>
       </div>
       <Button variant="ghost" className="ml-auto">
